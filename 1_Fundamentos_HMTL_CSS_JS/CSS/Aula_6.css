@@ -1,0 +1,43 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Helvetica', sans-serif;
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    text-align: left;
+    text-shadow: 1px 1px 3px #666;
+}
+
+.description {
+    color: blue;
+    font-size: 16px;
+    font-style: italic;
+}
+
+#link1 {
+    color: red;
+    text-decoration: none;
+}
+
+#link1:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
+.styled-box {
+    width: 200px;
+    height: 100px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
