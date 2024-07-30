@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f0f0;
+    background-color: #efe3fc;
     font-family: 'Helvetica', sans-serif;
 }
 
@@ -29,6 +29,8 @@ img {
     width: 150px;
     height: auto;
     border-radius: 8px;
+    border-color: aqua;
+    border-top-left-radius: 15px;
 }
 
 .styled-box {

@@ -1,23 +1,75 @@
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
-
-h1 {
-    color: #db0f9e;
-    text-align: left;
-    font-family: 'Titillium Web', sans-serif;
-}
-
 body {
-    background-color: #f0f0f0;
+    border-color: #000da0;
+    background-color:rgba(158, 149, 134, 0.932) ;
 }
 
+.titulo {
+    color: rgba(0, 0, 0, 0.959);
+    font-size:xx-large;
+    font-family: roman sd;
+    font-style: normal;    
 
+}
 
-.description {
-    color: blue;
+.P {
+    color:black;
+    font-size:larger;
+    font-family: Type Machine;
+    font-style: normal;
+    font-weight: bolder;
+    
+}
+
+.Ptab {
+    color:black;
+    font-size:medium;
+    font-family: Type Machine;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.textos {
+    color: black;
+    font-size:medium;
+    font-family: Vogue;
+    font-style: normal;
+    font-weight: bolder;
+    font-weight: bolder;
+}
+
+.tabtext {
+    color: black;
+    font-size:smaller;
+    font-family: Vogue;
+    font-style: normal;
+    font-weight: bolder;
+}
+
+.leg {
+    color: black;
+    font-size:larger;
+    font-family: Deuxieme_Rang_Original;
     font-style: italic;
+    font-weight:bold;
 }
 
-#link1 {
-    color: red;
+
+#link {
+    color:brown;
+    font-family: Vanilla Whale;
+    font-size: large;
+    font-style:unset;
 }
 
+#bottom {
+    background-color: black;
+    color: rgb(21, 255, 0);
+    border: none;
+    font-size:medium;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+}
+
+#bottom:hover {
+    background-color: #686868;
+}
