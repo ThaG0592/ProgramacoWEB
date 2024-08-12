@@ -49,3 +49,5 @@ console.log(vazio);
 let indefinido;
 console.log(indefinido);
 
+
+
