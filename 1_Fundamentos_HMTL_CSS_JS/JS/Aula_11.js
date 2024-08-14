@@ -38,7 +38,7 @@ function exemplo() {
 }
 
 exemplo();  // Exibe "Estou dentro da função"
-console.log(local);  // Erro: local não está definido
+//console.log(local);  // Erro: local não está definido
 
 //Variáveis declaradas fora de qualquer função têm escopo global e podem 
 //ser acessadas de qualquer parte do código.
