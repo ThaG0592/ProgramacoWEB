@@ -43,13 +43,13 @@ botao.addEventListener("click", function() {
 
 //Utilize addEventListener para reagir a eventos como cliques, mouseover, e teclas pressionadas.
 let botao1 = document.querySelector("button");
-botao.addEventListener("click", function() {
+botao1.addEventListener("click", function() {
     alert("Botão clicado!");
 });
 
 //Adicione um botão que, ao ser clicado, mude o texto do parágrafo.
 let botao2 = document.querySelector("button");
-botao.addEventListener("click", function() {
+botao2.addEventListener("click", function() {
     let paragrafo = document.querySelector("p");
     paragrafo.innerText = "Texto alterado!";
 });
