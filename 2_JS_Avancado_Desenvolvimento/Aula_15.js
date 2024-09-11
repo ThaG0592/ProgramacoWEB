@@ -21,12 +21,12 @@ document.addEventListener("keydown", function(event) {
 submit: Disparado quando um formulário é enviado.
 change: Disparado quando o valor de um elemento input, select, ou textarea muda.*/
 
-/*let formulario = document.querySelector("form");
+let formulario = document.querySelector("form");
 formulario.addEventListener("submit", function(event) {
     event.preventDefault();
     alert("Formulário enviado!");
 });
-*/
+
 /*Adicionar Eventos:
 Use o método addEventListener para adicionar um evento a um elemento.*/
 
