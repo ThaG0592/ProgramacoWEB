@@ -10,6 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
+    "aula_17": "file:",
     "lodash": "^4.17.21"
   }
 }
