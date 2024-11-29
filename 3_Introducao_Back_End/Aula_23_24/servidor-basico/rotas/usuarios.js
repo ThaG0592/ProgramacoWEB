@@ -6,5 +6,5 @@ router.get('/', (req, res) => {
   res.send('Lista de usuários');
 });
 
-module.exports = router;
+module.exports = router; 
 
